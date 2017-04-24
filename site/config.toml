@@ -1,4 +1,4 @@
-baseurl = "https://www.royster.space"
+baseurl = "https://www.royster.space/"
 languageCode = "en-us"
 title = "Royster's Playground"
 theme = "hugo-strata-theme"
