@@ -5,7 +5,7 @@ title = "# All About Alex"
 
 +++
 
-![This is me](/img/about.jpg)
+![This is me](/images/avatar.jpg)
 
 Hello! I am Alex Royster and I live in Milwaukee, Wisconsin. I work at a Managed Service Provider named Mytech Partners. I am interested in all things IT and love learning about new technologies.
 
