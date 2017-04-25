@@ -95,7 +95,7 @@ paginate = 10
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "Hit me up!"
 		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
 
