@@ -2,7 +2,7 @@
 date = "2017-04-23T02:05:08-05:00"
 draft = false
 title = "All About Alex"
-
+discussShortname = 'disableComments'
 +++
 
 <img style="padding: 20px; float:right;width:250px;height:250px;"; alt="Picture of Alex"; src="/images/avatar.jpg">
@@ -11,7 +11,7 @@ title = "All About Alex"
 
 I am Alex Royster and I live in Milwaukee, Wisconsin. I work at Mytech Partners, a Managed Service Provider. I am interested in all things IT and love learning about new technologies.
 
-I manage servers, network devices and workstations. I primarily work with Windows Servers managing Group Policy, Exchange, File Services and other domain functions. I also support various 3rd party server solutions and applications. Most servers I work with are vitualized on VMWare hosts, but I have a handful running on Hyper-V. Increasingly, I am supporting more Office 365 tenants, which has provided ample opportunity to brush up on PowerShell. Recently I completed Office 365 MCSA certification.
+I manage servers, network devices and workstations. I primarily work with Windows Servers managing Group Policy, Exchange, File Services and other domain functions. I also support various 3rd party server solutions and applications. Most servers I work with are virtualized on VMWare hosts, but I have a handful running on Hyper-V. Increasingly, I am supporting more Office 365 tenants, which has provided ample opportunity to brush up on PowerShell. Recently, I completed the Office 365 MCSA certification.
 
 On the networking side, I administer primarily SonicWall, Cisco and Watchguard firewalls, routers and switches. With wireless networking in such high demand, I have become familiar with number of wireless access controllers including cloud managed solutions from Xirrus, Ubiquiti and Meraki and locally administered Cisco controllers.
 
@@ -20,10 +20,10 @@ I enjoy learning and am always working on new certifications. I am currently wor
 ## Current Certifications:
 
 * Microsoft
-  * MCSA: Office 365
-  * MCSA: Server 2012
-  * MCSA: Windows 8
-  * MTA: Networking Fundamentals
+  * Microsoft Certified Solutions Associate: Office 365
+  * Microsoft Certified Solutions Associate: Server 2012
+  * Microsoft Certified Solutions Associate: Windows 8
+  * Microsoft Technology Associate: Networking Fundamentals
   * Microsoft Certified Professional: License F513-9239
 * Dell Server Technical Competency
 * Xirrus
