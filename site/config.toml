@@ -17,9 +17,6 @@ paginate = 10
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
 
-	# Add read time estimates in the format "X min read"
-	show_read_time = false
-
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
 	custom_css  = []
@@ -129,7 +126,7 @@ paginate = 10
 [[menu.main]]
 	name = "Home"
 	url  = "/"
-	weight = 10
+	weight = 0
 
 [[menu.main]]
 	name = "About"
@@ -139,4 +136,4 @@ paginate = 10
 [[menu.main]]
 	name = "Blog"
 	url  = "post/"
-	weight = 0
+	weight = 10
