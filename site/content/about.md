@@ -2,7 +2,7 @@
 date = "2017-04-23T02:05:08-05:00"
 draft = false
 title = "All About Alex"
-disqusShortname = 'disableComments'
+discussShortname = 'disableComments'
 +++
 
 <img style="padding: 20px; float:right;width:250px;height:250px;"; alt="Picture of Alex"; src="/images/avatar.jpg">
@@ -15,12 +15,10 @@ I manage servers, network devices and workstations. I primarily work with Window
 
 On the networking side, I administer primarily SonicWall, Cisco and Watchguard firewalls, routers and switches. With wireless networking in such high demand, I have become familiar with number of wireless access controllers including cloud managed solutions from Xirrus, Ubiquiti and Meraki and locally administered Cisco controllers.
 
-I enjoy learning and am always working on new certifications. I am currently studying for the VMWare Certified Professional Datacenter Virtualization certification.
+I enjoy learning and am always working on new certifications. I am currently working on Cisco Routing and Switching and Xirrus Certified Wireless Professional. Soon, I will be starting a course for VMWare Certified Professional which I am looking forward to.
 
 ## Current Certifications:
 
-* Cisco
-  * CCNA: Cisco Certified Networking Associate
 * Microsoft
   * Microsoft Certified Solutions Associate: Office 365
   * Microsoft Certified Solutions Associate: Server 2012
@@ -31,7 +29,6 @@ I enjoy learning and am always working on new certifications. I am currently stu
 * Xirrus
   * XCSA: Xirrus Certified Sales Associate
   * XCWT: Xirrus Certified Wireless Technician
-  * XCWP: Xirrus Certified Wireless Professional
 * Certificate of HIPAA Workforce Proficiency (CHWP)
 * Certified Support Professional
 
