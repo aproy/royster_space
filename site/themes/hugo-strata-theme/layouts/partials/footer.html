@@ -17,7 +17,7 @@
 		<li><a href="//gitlab.com/{{ . }}" target="_blank" class="icon fa-gitlab"><span class="label">GitLab</span></a></li>
 		{{ end }}
 		{{ with .Site.Params.sidebar.linkedin }}
-		<li><a href="//linkedin.com/in/{{ . }}" target="_blank" class="icon fa-linkedin-square"><span class="label">Linkedin</span></a></li>
+		<li><a href="{{ . }}" target="_blank" class="icon fa-linkedin-square"><span class="label">Linkedin</span></a></li>
 		{{ end }}
 		{{ with .Site.Params.sidebar.dribbble }}
 		<li><a href="//dribbble.com/{{ . }}" target="_blank" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
@@ -34,10 +34,12 @@
 	</ul>
 
 	<ul class="copyright">
+	  <li><a href="//www.netlify.com" target="_blank" class="icon fa-netlify"><span class="label">Netlify</span><img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" width="74" height="33"/></a></li>
 		{{ range .Site.Params.sidebar.copyright }}
 		<li>{{ . | markdownify }}</li>
 		{{ end }}
 	</ul>
+
 </footer>
 
 {{ "<!-- Scripts -->" | safeHTML }}
