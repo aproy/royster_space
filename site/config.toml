@@ -26,7 +26,7 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "I work at a Managed Service Provider and love exploring new technologies, labbing and tinkering with code."
+		bio = "I am a Sys Admin who loves exploring new technologies, virtualizing everything and tinkering with code."
 		# The icons will be shown if you enter your username
 		twitter = "aproystarr"
 		github = "aproy"
