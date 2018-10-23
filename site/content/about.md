@@ -9,9 +9,9 @@ disqusShortname = 'disableComments'
 
 ## Professional Interests
 
-I am Alex Royster and I live in Milwaukee, Wisconsin. I work at Mytech Partners, a Managed Service Provider. I am interested in all things IT and love learning about new technologies.
+I am Alex Royster and I live in Denver, Colorado. I work at Mytech Partners, a Managed Service Provider. I am interested in all things IT and love learning about new technologies.
 
-I manage servers, network devices and workstations. I primarily work with Windows Servers managing Group Policy, Exchange, File Services and other domain functions. I also support various 3rd party server solutions and applications. Most servers I work with are virtualized on VMWare hosts, but I have a handful running on Hyper-V. Increasingly, I am supporting more Office 365 tenants, which has provided ample opportunity to brush up on PowerShell. Recently, I completed the Office 365 MCSA certification.
+I manage servers, networks, storage, virtualization solutions and cloud platforms. I primarily work with Windows Servers managing Group Policy, Exchange, File Services and other domain functions. I also support various 3rd party server solutions and applications. Most servers I work with are virtualized on VMWare hosts, but I have a handful running on Hyper-V. Increasingly, I am supporting more Office 365 tenants, which has provided ample opportunity to brush up on PowerShell. Recently, I completed the Office 365 MCSA certification.
 
 On the networking side, I administer primarily SonicWall, Cisco and Watchguard firewalls, routers and switches. With wireless networking in such high demand, I have become familiar with number of wireless access controllers including cloud managed solutions from Xirrus, Ubiquiti and Meraki and locally administered Cisco controllers.
 
@@ -19,6 +19,8 @@ I enjoy learning and am always working on new certifications. I am currently stu
 
 ## Current Certifications:
 
+* VMware
+  * VMware Certified Professional 6.5 – Data Center Virtualization
 * Cisco
   * CCNA: Cisco Certified Networking Associate
 * Microsoft
@@ -37,4 +39,4 @@ I enjoy learning and am always working on new certifications. I am currently stu
 
 ## On the Home Front
 
-I have a beautiful wife who is an extremely gifted Psychologist and the amazing mother of my daughter. We are new to parenthood and it has been an great new adventure for us. We also have two dogs and a cat so things are pretty lively around here. When I am not spending time with the **fam**. I enjoy mountain biking, running and exploring where the wild things are.
+I have a beautiful wife who is an extremely gifted Psychologist and the amazing mother of my daughter. We are new to parenthood and it has been an great new adventure for us. I enjoy mountain biking, running and exploring where the wild things are.
